@@ -2,7 +2,7 @@
 
 > An end-to-end SQL analytics case study on Zepto's product inventory — from raw data cleaning to advanced business intelligence.
 
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Quick%20Commerce-red?style=for-the-badge)
