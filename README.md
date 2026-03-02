@@ -1,4 +1,3 @@
-
 # 🛒 ZeptoLens: Quick Commerce Analytics Using SQL
 
 > An end-to-end SQL analytics case study on Zepto's product inventory — from raw data cleaning to advanced business intelligence.
@@ -283,6 +282,11 @@ source sql/04_advanced_queries.sql
 **Rakesh**  
 Data Analyst | SQL · Python · Power BI · Salesforce CRM
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
+
+---
+
 ## 📃 License
 
 This project is open-source and available under the [MIT License](LICENSE).
@@ -290,5 +294,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 > ⭐ If you found this project helpful, please consider giving it a star — it helps others discover it!
-
-
